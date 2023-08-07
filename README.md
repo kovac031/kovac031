@@ -1,8 +1,5 @@
-### Hi there 👋
-prva
-<img src="https://raw.githubusercontent.com/kovac031/kovac031/main/images/jura-diplomiro.jpg">
-druga
-<img src="https://github.com/kovac031/kovac031/blob/main/images/jura-diplomiro.jpg">
+<img src="https://github.com/kovac031/kovac031/blob/main/images/wip.png">
+
 <!--
 **kovac031/kovac031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
