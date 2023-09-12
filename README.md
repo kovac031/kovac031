@@ -8,7 +8,7 @@
   
 ## 📝 My experience:           
 
-> My journey started in March 2022, with a 255-hour intensive backend developer beginner course, and continued with self-learning
+> My journey started in March 2023, with a 255-hour intensive backend developer beginner course, and continued with self-learning
 
 ```
 Tools, languages, frameworks, etc. I've used:
