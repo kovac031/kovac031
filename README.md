@@ -71,6 +71,8 @@ I can:
 >   - .NET 7 WebAPI and MVC [without unit tests](https://github.com/kovac031/AutoMapper-Core)
 >   - [repository where I added unit tests for those projects](https://github.com/kovac031/LearningUnitTesting)
 
+> - [SQL practice](https://github.com/kovac031/SQL-practice)
+
 ## 🚧 To be explored
 > - Docker
 > - Git
