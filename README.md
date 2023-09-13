@@ -59,7 +59,6 @@ I can:
 >   - [buying SIM plan options menu loop](https://github.com/kovac031/ConsoleApp-AktivacijaSimpaOpcije)
 >   - [various simple tasks](https://github.com/kovac031/Mono-Elpros-PracticeTasks)
 >   - [using FileStream](https://github.com/kovac031/ConsoleApp-FileStream-txt)
->   - [manual unit test](https://github.com/kovac031/ConsoleApp-FirstUnitTest)
 
 > - [Group task project copy from the beginner course](https://github.com/kovac031/Mono-Elpros-FinalExam)
 
