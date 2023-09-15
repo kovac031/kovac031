@@ -16,7 +16,7 @@ Tools, languages, frameworks, etc. I've used:
 - Visual Studio, Visual Studio Code, SQL Server Management Studio, Sourcetree and Postman
 - mainly C#, SQL
 - ASP.NET Framework 4.7.2, ASP.NET 7
-- Autofac, ADO.NET, AutoMapper, JWT Authentication, xUnit, MSTest, FakeItEasy, Moq ...
+- Autofac, ADO.NET, AutoMapper, JWT Authentication, xUnit, MSTest, FakeItEasy, Moq, Dapper, ClosedXML ...
 ```
 
 ```
@@ -76,7 +76,6 @@ I can:
 ## 🚧 To be explored
 > - Docker
 > - Git
-> - Dapper
 > - PostgreSQL
 > - Blazor
 > - Java & Spring Framework
