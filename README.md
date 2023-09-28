@@ -31,7 +31,7 @@ I can:
   - debug code and resolve exceptions
   - write unit tests using xUnit, MSTest, mock data using Moq or FakeItEasy
 - work as part of a team, use branches, merge/rebase branches in Sourcetree, resolve merge conflicts using Visual Studio Code
-- notice when chatGPT is writing unhelpful nonsense :D
+- notice when ChatGPT is writing unhelpful nonsense :D
 ```
 <p align="center"> <!-- jbg padding/margin ne slusa, workaround je transparent png -->
 <img width="40px" src="https://github.com/kovac031/kovac031/blob/main/images/Csharp.png"/> 
