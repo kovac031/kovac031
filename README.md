@@ -32,7 +32,6 @@ I can:
   - write unit tests using xUnit, MSTest, mock data using Moq or FakeItEasy
 - work as part of a team, use branches, merge/rebase branches in Sourcetree, resolve merge conflicts using Visual Studio Code
 - notice when ChatGPT is writing unhelpful nonsense :D
-- [answer 100 questions every C# dev should know](https://github.com/kovac031/DevQuestionsAndAnswers_CSharp)
 ```
 <p align="center"> <!-- jbg padding/margin ne slusa, workaround je transparent png -->
 <img width="40px" src="https://github.com/kovac031/kovac031/blob/main/images/Csharp.png"/> 
@@ -73,6 +72,8 @@ I can:
 >   - [repository where I added unit tests for those projects](https://github.com/kovac031/LearningUnitTesting)
 
 > - [SQL practice](https://github.com/kovac031/SQL-practice)
+
+> - I also answered [100 questions](https://github.com/kovac031/DevQuestionsAndAnswers_CSharp) every C# dev should know
 
 ## 🚧 To be explored
 > - Docker
