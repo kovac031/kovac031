@@ -73,7 +73,7 @@ I can:
 
 > - [SQL practice](https://github.com/kovac031/SQL-practice)
 
-> - I also answered [100 questions](https://github.com/kovac031/DevQuestionsAndAnswers_CSharp) every C# dev should know
+> - I also answered [80 questions](https://github.com/kovac031/DevQuestionsAndAnswers_CSharp) every C# dev should know
 
 ## 🚧 To be explored
 > - Docker
