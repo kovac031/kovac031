@@ -55,7 +55,7 @@ I can:
 
 ## 🍜 My Chinese characters recognition practice app:
 
-> - [showcase repo](https://github.com/kovac031/ChineseCharactersApp-Showcase/blob/main/decktable.png)
+> - [showcase repo](https://github.com/kovac031/ChineseCharactersApp-Showcase)
 > - [live website](https://practice-chinese.azurewebsites.net)
 
 ## 💾 Other repository projects overview:
