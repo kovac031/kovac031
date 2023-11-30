@@ -53,7 +53,12 @@ I can:
 <img width="40px" src="https://github.com/kovac031/kovac031/blob/main/images/NET_core.png"/>
 </p> 
 
-## 💾 Repository projects overview:
+## 🍜 My Chinese characters recognition practice app:
+
+> - [showcase repo](https://github.com/kovac031/ChineseCharactersApp-Showcase/blob/main/decktable.png)
+> - [live website](https://practice-chinese.azurewebsites.net)
+
+## 💾 Other repository projects overview:
 
 > - Console apps in C# with loops for practice:
 >   - [buying SIM plan options menu loop](https://github.com/kovac031/ConsoleApp-AktivacijaSimpaOpcije)
