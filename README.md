@@ -53,7 +53,7 @@ I can:
 <img width="40px" src="https://github.com/kovac031/kovac031/blob/main/images/NET_core.png"/>
 </p> 
 
-## 🍜 My Chinese characters recognition practice app:
+## 🍜 My "Chinese characters recognition practice" app:
 
 > - [showcase repo](https://github.com/kovac031/ChineseCharactersApp-Showcase)
 > - [live website](https://practice-chinese.azurewebsites.net)
