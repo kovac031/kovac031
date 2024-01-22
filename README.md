@@ -22,6 +22,7 @@ Tools, languages, frameworks, etc. I've used:
 ```
 I can:
 
+- plan, code and deploy complete web applications, connected to a database and hosted on Azure
 - write SQL queries, create and manipulate databases, tables and table content
 - connect to database from Visual Studio projects directly or using Entity Framework
 - create console app, WebAPI and MVC projects using .NET Framework or .NET Core
