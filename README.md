@@ -85,5 +85,5 @@ I can:
 > - Docker
 > - Git
 > - PostgreSQL
-> - Blazor
+> - React
 > - Java & Spring Framework
