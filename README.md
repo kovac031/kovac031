@@ -34,9 +34,17 @@
 
 </br>
 
+> see here if you are curious what it looked like when I got my first dev job
+
+> [link](https://github.com/kovac031/kovac031/blob/main/firstReadme.md)
+
+</br>
+
 ## 🍜 My "Chinese characters recognition practice" app:
 > passion project
 
 > - [showcase repo](https://github.com/kovac031/ChineseCharactersApp-Showcase)
 > - [live website](https://practice-chinese.azurewebsites.net)
+
+</br>
 
