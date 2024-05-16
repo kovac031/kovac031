@@ -2,6 +2,8 @@ This is what my GitHub profile/landing/home page looked like before/when I lande
 
 ![](https://komarev.com/ghpvc/?username=kovac031)
 
+^ this counter showed ~ 1000 views back then
+
 # 🚀 Welcome! 
 
 > ## <p align="center"> ~ My name is Ivan and I would like to become a backend developer. ~  </p>
