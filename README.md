@@ -30,6 +30,8 @@
 <img width="30px" src="https://github.com/kovac031/kovac031/blob/main/images/typescript-icon.png"/>
   <img src="https://github.com/kovac031/kovac031/blob/main/images/transparent-margin.png"/> 
 <img width="30px" src="https://github.com/kovac031/kovac031/blob/main/images/angular-icon.png"/>
+  <img src="https://github.com/kovac031/kovac031/blob/main/images/transparent-margin.png"/> 
+<img width="36px" src="https://github.com/kovac031/kovac031/blob/main/images/blazor-icon.png"/>
 </p> 
 
 </br>
