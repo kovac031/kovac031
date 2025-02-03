@@ -2,9 +2,9 @@
 
 # 🚀 Welcome! 
 
-> ## <p align="center"> Currently working as a junior dev :) </p>
+> ## <p align="center"> Currently working as a junior dev </p>
 
-> ### <p align="center"> Bootcamp graduate, then self-learning, familiar with C#, ASP.NET, SQL, now learning TypeScript and Angular</p>
+> ### <p align="center"> Bootcamp graduate, then self-learning, familiar with C#, .NET, SQL, experience with Angular and Blazor projects</p>
 
 </br>
 
