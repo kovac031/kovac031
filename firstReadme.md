@@ -63,8 +63,6 @@ I can:
 > - [showcase repo](https://github.com/kovac031/ChineseCharactersApp-Showcase)
 > - [live website](https://practice-chinese.azurewebsites.net) 
 
-^ this counter showed ~ 1000 I think
-
 ## 💾 Other repository projects overview:
 
 > - Console apps in C# with loops for practice:
